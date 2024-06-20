@@ -1,0 +1,28 @@
+{
+	"fileTypes": [
+		"gtml",
+		"gtm"
+	],
+	"scopeName": "index.gtml",
+	"name": "GTML",
+	"patterns": [
+		{
+			"name": "keyword.control.gtml",
+			"match": "\\{\\w+\\b[^\\}]*\\}(?=[^\\{]*\\{END:\\w+\\})"
+		},
+		{
+			"name": "keyword.control.end.gtml",
+			"match": "\\{END:\\w+\\}"
+		},
+		{
+			"name": "string.quoted.double.gtml",
+			"begin": "\"",
+			"end": "\""
+		},
+		{
+			"name": "meta.tag.gtml",
+			"begin": "\\{",
+			"end": "\\}"
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{settings}
+    {lang lang="en-us"}{END:lang}
+    {page_title}GTML Test{END:page_title}
+    {page_icon url="/favicon.png"}{END:page_icon}
+    {cssfile url="./main.css"}{END:cssfile}
+{END:settings}
+{main}
+    {box}
+        {text}This is some text.{END:text}
+        {text}This is some more text!{END:text}
+        {button onclick="alert('Yahoo!')"}This is a button{END:button}
+    {END:box}
+
+    {script}
+        alert("Testing 123!")
+    {END:script}
+{END:main}
