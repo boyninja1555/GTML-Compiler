@@ -15,3 +15,8 @@ I will update the below every time GTML updates.
 ### BETA 1.0.2
 
 * Icons for .gtml and .gtm files were fixed to not delete other icons.
+
+### BETA 1.0.3
+
+* Fixed the bug that only allows for one instance of each tag
+* Added more tags
