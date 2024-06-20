@@ -2,7 +2,7 @@
 	"name": "gtml",
 	"displayName": "GTML",
 	"description": "VSCode extension for GTML",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"publisher": "boyninja15",
 	"engines": {
 		"vscode": "^1.60.0"
