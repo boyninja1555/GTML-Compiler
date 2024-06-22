@@ -20,3 +20,8 @@ I will update the below every time GTML updates.
 
 * Fixed the bug that only allows for one instance of each tag
 * Added more tags
+
+### BETA 1.0.4
+
+* Added support for instantly opening the compiled HTML in your default browser
+* Cleaned up the code to make it easier to add new features

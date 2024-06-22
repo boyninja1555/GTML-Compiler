@@ -1,2 +1,3 @@
-py -m PyInstaller --onefile src/GTMLParser.py
+@echo off
+py -m PyInstaller --onefile src/main.py
 pause
