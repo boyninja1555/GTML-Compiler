@@ -44,3 +44,7 @@ I will update the below every time GTML updates.
 
 * Added support for instantly opening the compiled HTML in your default browser
 * Cleaned up the code to make it easier to add new features
+
+### BETA 1.0.5
+
+* Fixed icons to actually show
